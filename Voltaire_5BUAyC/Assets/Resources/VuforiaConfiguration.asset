@@ -44,8 +44,10 @@ MonoBehaviour:
       ContainsMagnet: 0
   databaseLoad:
     dataSetsToLoad:
+    - Patron_musinetik01
     - Patron_Buchon
     dataSetsToActivate:
+    - Patron_musinetik01
     - Patron_Buchon
   videoBackground:
     clippingMode: 0
