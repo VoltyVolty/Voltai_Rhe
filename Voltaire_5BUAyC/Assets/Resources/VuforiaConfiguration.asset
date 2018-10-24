@@ -45,9 +45,7 @@ MonoBehaviour:
   databaseLoad:
     dataSetsToLoad:
     - Patron_Buchon
-    - Patron_musinetik01
     dataSetsToActivate:
-    - Patron_musinetik01
     - Patron_Buchon
   videoBackground:
     clippingMode: 0
