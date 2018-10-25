@@ -2233,42 +2233,42 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Cut_InSide
-    second: {fileID: 2100000, guid: a8668fa0547e34e1d9563726d9ad77cf, type: 2}
+    second: {fileID: 2100000, guid: 5aaa67c8b55f6418c9b8abace95ee504, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Cut_OutSide
-    second: {fileID: 2100000, guid: 5b658e0f8375b419ca7de3548f8484f3, type: 2}
+    second: {fileID: 2100000, guid: 16020a6dae1b44649b9b3cc279b4899d, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Mat
-    second: {fileID: 2100000, guid: 061c88b91b37d4e63bd36262384e59e1, type: 2}
+    second: {fileID: 2100000, guid: afef9c4118c2546a0aa2f2a45172fff9, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Mat.1
-    second: {fileID: 2100000, guid: cc31cac02a49744dea1cdd1690c46f82, type: 2}
+    second: {fileID: 2100000, guid: 76e01f41a68564bda9bab05b75737780, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: No Name
-    second: {fileID: 2100000, guid: 60efaff87b8694a0e812939f0d981f59, type: 2}
+    second: {fileID: 2100000, guid: d841911e3020d4a46bf9f5c9d6e7b3be, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Paso
-    second: {fileID: 2100000, guid: e66c8d78cbbe847c581a8567242ec522, type: 2}
+    second: {fileID: 2100000, guid: de44a005215f14152b0e52f33b0fa9dc, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: human_skin.001
-    second: {fileID: 2100000, guid: 0ec067765438649459e2f6a7a4a72ef1, type: 2}
+    second: {fileID: 2100000, guid: 5218fefc5e613424da5b8fb55d52ca04, type: 2}
   materials:
     importMaterials: 1
-    materialName: 0
+    materialName: 2
     materialSearch: 1
-    materialLocation: 0
+    materialLocation: 1
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
